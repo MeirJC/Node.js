@@ -1,0 +1,15 @@
+Write in your own words the following:
+What are 3 things node.js has that the client side javascript doesn’t
+have. And the reasons why.
+What are 3 things the client side javascript has that node.js doesn’t
+have. And the reasons why
+//================================================================
+-Node can run nativly on serverside while javascript runs in the browser only.
+-Node is asynchronous by nature (Non blocking) while javascript is not. 
+-Node can hanlde input and output from console while javasscript cannot.
+-runs on a specific engine (chrome v8)
+//================================================================
+-can render html
+-interacts with a visual interface
+-access to things provided only by the browser, like the dom / window obj.
+-can be run by any javascript engine

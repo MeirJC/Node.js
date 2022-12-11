@@ -1,0 +1,72 @@
+[
+  {
+    "resturant_name": "mahne yehuda",
+    "address": {
+      "city": "jerusalem",
+      "street": "mhane yehuda market",
+      "coordinates": ["-77.564", "40.677"]
+    },
+    "cuisine_type": "israely fusion",
+    "reviews": [
+      { "date": "2022-12-11", "score": "3.8" },
+      { "date": "2022-12-10", "score": "4.0" },
+      { "date": "2022-12-09", "score": "4.9" }
+    ]
+  },
+  {
+    "resturant_name": "mesa",
+    "address": {
+      "city": "tel-aviv",
+      "street": "arlozorov",
+      "coordinates": ["-72.553", "45.617"]
+    },
+    "cuisine_type": "israely fusion",
+    "reviews": [
+      { "date": "2022-11-10", "score": "4.2" },
+      { "date": "2022-11-30", "score": "4.0" },
+      { "date": "2022-12-24", "score": "3.6" }
+    ]
+  },
+  {
+    "resturant_name": "humus ha melachim",
+    "address": {
+      "city": "dir el asad",
+      "street": "main street",
+      "coordinates": ["-73.553", "54.617"]
+    },
+    "cuisine_type": "arab",
+    "reviews": [
+      { "date": "2022-11-10", "score": "4.8" },
+      { "date": "2022-11-30", "score": "4.9" },
+      { "date": "2022-12-24", "score": "5.0" }
+    ]
+  },
+  {
+    "resturant_name": "neopolitan",
+    "address": {
+      "city": "haifa",
+      "street": "hanamal",
+      "coordinates": ["-70.553", "49.617"]
+    },
+    "cuisine_type": "italian",
+    "reviews": [
+      { "date": "2022-11-10", "score": "4.6" },
+      { "date": "2022-11-30", "score": "4.5" },
+      { "date": "2022-12-24", "score": "4.4" }
+    ]
+  },
+  {
+    "resturant_name": "baba sababa",
+    "address": {
+      "city": "ramle",
+      "street": "hashuk",
+      "coordinates": ["-70.553", "49.617"]
+    },
+    "cuisine_type": "indian",
+    "reviews": [
+      { "date": "2022-11-10", "score": "2.2" },
+      { "date": "2022-11-30", "score": "1.1" },
+      { "date": "2022-12-24", "score": "0.05" }
+    ]
+  }
+]

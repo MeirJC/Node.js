@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1"
+  },
+  "name": "16.1",
+  "version": "1.0.0",
+  "description": "Blog Database",
+  "main": "blog.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Meir J Cohen",
+  "license": "ISC"
+}
